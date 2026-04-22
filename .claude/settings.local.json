@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\xzxgu\\\\OneDrive\\\\Área de Trabalho\\\\Equipo de agentes\\\\01_ESTRATEGIA\")",
+      "Bash(cp \"C:\\\\Users\\\\xzxgu\\\\Downloads\\\\Identidad Corporativa_ El Manifiesto.md\" \"C:\\\\Users\\\\xzxgu\\\\OneDrive\\\\Área de Trabalho\\\\Equipo de agentes\\\\01_ESTRATEGIA\\\\MANIFIESTO_ABELHA.md\")",
+      "Bash(xargs -I {} basename \"{}\")",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(git add *)"
+    ]
+  }
+}
