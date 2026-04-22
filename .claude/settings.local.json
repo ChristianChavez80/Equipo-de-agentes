@@ -6,7 +6,11 @@
       "Bash(xargs -I {} basename \"{}\")",
       "Bash(git init *)",
       "Bash(git config *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m '🐝 Initial commit: Abelha Studio - Team of 20 specialized AI agents *)",
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git push *)"
     ]
   }
 }
