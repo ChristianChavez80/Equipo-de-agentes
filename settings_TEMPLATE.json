@@ -1,0 +1,20 @@
+{
+  "comment": "Plantilla de configuración para proyectos clientes de Abelha Studio",
+  "comment_instructions": "1. Copia este archivo a .claude/settings.local.json en tu proyecto cliente",
+  "comment_path": "2. Actualiza la ruta a Equipo-de-agentes según tu estructura de carpetas",
+  "comment_usage": "3. Luego ejecuta: ! claude config view",
+
+  "claude-code": {
+    "skillsPath": "../../Equipo-de-agentes/06_EQUIPO_SKILLS/",
+    "comment_skillsPath": "Ruta a los skills especializados del equipo central"
+  },
+
+  "claude-code.contextInclusion": {
+    "CLAUDE.md": true,
+    "MEMORY.md": true,
+    "comment": "Incluye automáticamente CLAUDE.md y MEMORY.md en el contexto de Claude"
+  },
+
+  "claude-code.language": "es",
+  "comment_language": "Español por defecto"
+}
