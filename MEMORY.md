@@ -13,12 +13,17 @@
 ## Visual Stack
 - [Identidad Visual](03_memoria_visual.md) — Dark mode, #FFCC00, Inter/Montserrat
 
-## Estructura de Agentes (20 Skills)
-- [Relaciones de Agentes](04_memoria_relaciones.md) — Cómo se comunican los 20 agentes
+## Estructura de Agentes (21 Skills)
+- [Relaciones de Agentes](04_memoria_relaciones.md) — Cómo se comunican los agentes
+- [Abelha Clone-Study](06_EQUIPO_SKILLS/desarrollo/abelha-clone-study.skill.md) — Skill maestro para clonar & recrear webs con accesibilidad + sostenibilidad
 
 ## Estado del Proyecto
-- ✅ 20 Skills creados y documentados
-- ⏳ Estructura de carpetas completada (01-07)
-- ⏳ Validación de skills contra manifiesto
+- ✅ 20 Skills originales creados y documentados
+- ✅ Abelha Clone-Study creado (nuevo skill #21)
+- ✅ Estructura de carpetas completada (01-07)
+- ✅ 4 Referencias principales creadas para Clone-Study
+- ⏳ Instalación de scripts Python (capture, tokens, a11y, sustainability)
+- ⏳ Integración de Clone-Study en pipeline de Claude Code
+- ⏳ Primer sitio de prueba (test run)
 EOF
 echo "✅ MEMORY.md creado"

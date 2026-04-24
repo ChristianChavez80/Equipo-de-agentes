@@ -10,7 +10,20 @@
       "Bash(git commit -m '🐝 Initial commit: Abelha Studio - Team of 20 specialized AI agents *)",
       "Bash(git commit *)",
       "Bash(git remote *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(npm install *)",
+      "Bash(npm audit *)",
+      "Bash(npm run *)",
+      "Bash(pkill -f \"astro dev\")",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "PowerShell(pip install *)",
+      "Bash(mkdir -p ~/abelha-clone-study/scripts ~/abelha-clone-study/captures)",
+      "Read(//c/Users/xzxgu/**)",
+      "Bash(cp \"C:\\\\Users\\\\xzxgu\\\\OneDrive\\\\Área de Trabalho\\\\Equipo de agentes\\\\06_EQUIPO_SKILLS\\\\desarrollo\\\\scripts\\\\capture.py\" ~/abelha-clone-study/scripts/)",
+      "Bash(python scripts/capture.py https://linear.app captures/linear)",
+      "Bash(python scripts/a11y_audit.py captures/linear)",
+      "Bash(python scripts/sustainability_audit.py captures/linear)",
+      "Bash(python scripts/extract_tokens.py captures/linear)"
     ]
   }
 }
